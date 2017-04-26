@@ -4,9 +4,7 @@ class Login extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-header">
           <h2>Login</h2>
-        </div>
       </div>
     );
   }
